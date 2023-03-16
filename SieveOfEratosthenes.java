@@ -2,7 +2,7 @@
  *Date: 2017
  *Version: 1.0
  *Name: Sieve of Erastosthenes
- *Purpose: Use the sieve of erastosthenes to find the first 
+ *Purpose: Use the sieve of erastosthenes to find the first 1000 prime numbers
  */
 public class sieve_of_eratosthenes{
  
